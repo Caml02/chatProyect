@@ -1,5 +1,4 @@
 .env
-src/
 vendor/
 .env/
 node_modules/
